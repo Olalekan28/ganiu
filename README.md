@@ -1,0 +1,2 @@
+# ganiu
+week 1
